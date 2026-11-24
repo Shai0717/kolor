@@ -1,0 +1,7 @@
+name: Kolor
+version: '1.0.0'
+main: io.github.Shai0717.kolor.Kolor
+loader: io.github.Shai0717.kolor.KolorPluginLoader
+api-version: '26.3'
+folia-supported: true
+description: A lightweight Paper and Folia framework.

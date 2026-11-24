@@ -1,0 +1,11 @@
+name: KolorIntegrationProbe
+version: '1.0.0'
+main: io.github.Shai0717.kolor.IntegrationProbe
+api-version: '26.3'
+folia-supported: true
+dependencies:
+  server:
+    Kolor:
+      load: BEFORE
+      required: true
+      join-classpath: true
