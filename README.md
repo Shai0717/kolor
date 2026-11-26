@@ -163,3 +163,5 @@ kommand {
 `gradlew.bat test`는 Paper 스케줄러와 Brigadier를 모킹한 API 테스트를 실행합니다. `gradlew.bat integrationProbeJar`는 별도 테스트 플러그인을 빌드합니다. 이를 격리된 Paper 또는 Folia 서버에 Kolor와 함께 설치한 뒤 `kolor-native-check 7` 및 `kolor-compat-check ping`을 실행하면 명령/스케줄러 실행 로그를 확인할 수 있습니다.
 
 통합 프로브는 실제 플레이어 표시 동작이나 영역 간 retired 동작을 검증하지 않습니다. 해당 항목은 접속 클라이언트가 있는 별도 서버 테스트가 필요합니다.
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Shai0717?style=flat&logo=githubsponsors&color=ea4aaa)](https://github.com/sponsors/Shai0717)
